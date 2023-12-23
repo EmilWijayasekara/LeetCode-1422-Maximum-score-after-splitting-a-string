@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=1422 lang=java
- *
- * [1422] Maximum Score After Splitting a String
- */
-
-// @lc code=start
 class Solution {
     public int maxScore(String s) {
         int sum=0;
@@ -48,5 +41,4 @@ class Solution {
         return sum;
     }
 }
-// @lc code=end
-
+//https://github.com/EmilWijayasekara/
